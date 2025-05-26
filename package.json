@@ -17,10 +17,13 @@
     "react": "^18",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.12"
+=======
+>>>>>>> 1e116bc2960805c2227713eead64b7a88b040cf1
   }
 }
